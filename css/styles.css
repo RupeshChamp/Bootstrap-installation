@@ -3,7 +3,8 @@
     background-color: #ff4c68;
 }
 h1 {
-    font-family: "ubuntu";  
-    font-size: 3rem;  
-    line-height: 1.5;
+  font-family: 'Montserrat-Black', sans-serif;
+  font-weight: 900; /* black */
+  font-size: 3rem;
+  line-height: 1.5;
 }
