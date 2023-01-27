@@ -83,7 +83,21 @@ p{
 /* Testimonials section */
 #testimonials{
   padding: 7% 15%;
-  background-color: #ff4c68;
+  background-color: #ef8172;
   color:#fff;
   text-align: center;
+}
+.testimonial-img{
+  width : 15% ;
+  margin: 3rem;
+}
+/* Press section */
+#press{
+  background-color: #ef8172;
+  text-align: center;
+  padding-bottom: 3%;
+}
+.press-logo{
+  width: 15%;
+  margin: 20px 20px 50px;
 }
