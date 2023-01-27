@@ -16,6 +16,11 @@ h1 {
   line-height: 1.5;
   
 }
+h2{
+  font-family: 'Montserrat',sans-serif;
+  font-weight: bold;
+  font-size: 3rem;
+}
 h3{
   font-family: 'Montserrat',sans-serif;
   font-weight: bold;
@@ -73,4 +78,12 @@ p{
 
 #icon:hover{
   color: #ff4c68;
+}
+
+/* Testimonials section */
+#testimonials{
+  padding: 7% 15%;
+  background-color: #ff4c68;
+  color:#fff;
+  text-align: center;
 }
