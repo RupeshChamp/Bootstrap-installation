@@ -7,7 +7,7 @@ body{
 }
 
 .container-fluid{
-  padding: 2% 12%;
+  padding: 3% 15%;
 }
 h1 {
   font-family: 'Montserrat',sans-serif;
@@ -33,7 +33,7 @@ p{
 /* Navbar css */
 
 .navbar{
-  padding-bottom: 4.5rem;
+  padding:0 0 4.5rem;
 }
 .navbar-brand {
   font-family: "ubuntu";
@@ -42,7 +42,7 @@ p{
   
 }
 .nav-item{
-  padding: 0 18px 0 18px;
+  padding: 0 18px;
 }
 .nav-link{
   font-family: 'Montserrat',sans-serif;
@@ -68,7 +68,7 @@ p{
 }
 .feature-box{
   text-align: center;
-  padding: 2rem 3rem;
+  padding: 4.5%;
 }
 #icon {
   font-size: 3.5rem;
@@ -82,15 +82,21 @@ p{
 
 /* Testimonials section */
 #testimonials{
-  padding: 7% 15%;
+  
   background-color: #ef8172;
   color:#fff;
   text-align: center;
 }
 .testimonial-img{
-  width : 15% ;
-  margin: 3rem;
+  width : 10% ;
+  border-radius: 100%;
+  margin: 20px;
 }
+.carousel-item{
+  padding: 7% 15%;
+}
+
+
 /* Press section */
 #press{
   background-color: #ef8172;
